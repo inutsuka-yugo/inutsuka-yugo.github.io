@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/post/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/post/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/post/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/publication/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/publication/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/talk/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/talk/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/categories/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/categories/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/publication_types/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/tags/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/ja/" hreflang="ja"/>
+      <xhtml:link rel="alternate" href="https://inutsuka-yugo.github.io/" hreflang="en"/>
+    
+      <loc>https://inutsuka-yugo.github.io/ja/</loc>
+      <lastmod>2017-10-15T00:00:00+09:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
